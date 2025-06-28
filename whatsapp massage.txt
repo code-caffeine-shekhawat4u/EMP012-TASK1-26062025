@@ -1,0 +1,8 @@
+import pywhatkit as kit
+import datetime
+phone_number = "+91XXXXXXXXXX"
+message = "hello, this is a test message from pywhatkit!"
+now = datetime.datetime.now()
+send_hour = now.send_hour
+send_minute = now.minute + 2
+kit.sendwhatmsg(phone_number, message, send_hour, send_minute )
