@@ -1,0 +1,26 @@
+# Core Libraries
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+
+# API Integration
+tweepy
+python-telegram-bot
+discord.py
+twilio
+
+# Email & Communication
+smtplib
+email
+pywhatkit
+
+# Web Scraping
+scrapy
+requests-html
+
+# Data Processing
+json
+csv
+sqlite3
